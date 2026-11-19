@@ -52,4 +52,21 @@ Esto es un _**ejemplo de combinacion**_
  - [x] Sacar la cita
  - [x] Pegar derechos
  - [ ] Asistir a la cita
- - [ ] Esperar a que salga el pasaporte 
+ - [ ] Esperar a que salga el pasaporte
+
+#**Ejemplo de citacion** 
+Mis estudiantes dijeron 
+> Profe. ya compro el GTA VI?
+> POR QUE NO?
+> SI ES UN JUEGO BUENISIMO!!
+
+#Snippets de codigo 
+
+Codigo en Python 
+
+```python
+print("hola")
+print("Este es un ejemplo de codigo en Python")
+```powershell
+remove-item -Recurse hola.txt
+``` 
