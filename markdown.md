@@ -67,6 +67,8 @@ Codigo en Python
 ```python
 print("hola")
 print("Este es un ejemplo de codigo en Python")
+
+Codigo en Powershell
 ```powershell
 remove-item -Recurse hola.txt
 ``` 
