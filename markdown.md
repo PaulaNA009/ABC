@@ -78,6 +78,10 @@ A | B | A XOR B
 1 | 1 | 0 
 1 | 0 | 1
 0 | 1 | 1
+
+#Ejemplo de emojis 
+
+:+1::octocat: 😁 :camel:
 0 | 0 | 0
 
 
