@@ -10,3 +10,20 @@ Esto es mas texto normal
 
 Todavia mas texto normal
 
+Este es un ejemplo de _texto en cursiva_
+
+Este es otro ejemplo de *texto en cursiva*
+
+Este es un ejemplo de **texto en negrilla**
+
+Este es otro ejemplo de _texto en negrillas_
+
+Esto es un _**ejemplo de combinacion**_
+
+#Ejemplo de listas 
+* rojo
+* verde
+* amarillo
+* marron
+* naranja
+* morado 
