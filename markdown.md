@@ -49,7 +49,7 @@ Esto es un _**ejemplo de combinacion**_
 
 #Ejemplo de unha checklist: obtener pasaporte
 
- - [ ] Sacar la cita
- - [ ] Pegar derechos
+ - [ x ] Sacar la cita
+ - [ x ] Pegar derechos
  - [ ] Asistir a la cita
  - [ ] Esperar a que salga el pasaporte 
