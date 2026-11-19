@@ -27,3 +27,22 @@ Esto es un _**ejemplo de combinacion**_
 * marron
 * naranja
 * morado 
+
+#Ejemplo de una lista numeradas: Pilotos de F1
+
+1. Kimi antonelli
+2. Max verstappen
+3. Fernando Alonso
+4. Charles LeClerc
+
+"Ejemplo de una lista con varios niveles: Planetas y sus lunas
+
+* Tierra
+  *lUNA
+*Jupiter
+  * Calisto
+  * Ganimedes
+  * europa
+  * Io
+* Saturno
+  *Titan
