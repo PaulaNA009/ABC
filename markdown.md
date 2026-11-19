@@ -46,3 +46,10 @@ Esto es un _**ejemplo de combinacion**_
   * Io
 * Saturno
   *Titan
+
+#Ejemplo de unha checklist: obtener pasaporte
+
+ - [ ] Sacar la cita
+ - [ ] Pegar derechos
+ - [ ] Asistir a la cita
+ - [ ] Esperar a que salga el pasaporte 
